@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "isaac.johnson@gmail.com",
+    "longName": "IDJ_C_Project",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "IDJ_C_Project",
+    "uuid": "4588fc03-9fcd-400f-a8c1-5990cc268fda",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
